@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Bank wallet="3199.10">
+    <Person name="Михаил" wallet="1.34" appendFromBank="456.03"/>
+    <Person name="Татьяна" wallet="2.12" appendFromBank="456.81"/>
+    <Person name="Игорь" wallet="3.44" appendFromBank="458.13"/>
+    <Person name="Александр" wallet="5.15" appendFromBank="459.84"/>
+    <Person name="Георг" wallet="2.11" appendFromBank="456.80"/>
+    <Person name="Оля" wallet="1.43" appendFromBank="456.12"/>
+    <Person name="Светлана" wallet="4.25" appendFromBank="458.94"/>
+</Bank>

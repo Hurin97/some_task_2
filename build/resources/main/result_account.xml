@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<total>
+    <result>
+        <Person wallet="1.34" appendFromBank="456.03" name="Михаил"/>
+        <Person wallet="2.12" appendFromBank="456.81" name="Татьяна"/>
+        <Person wallet="3.44" appendFromBank="458.13" name="Игорь"/>
+        <Person wallet="5.15" appendFromBank="459.84" name="Александр"/>
+        <Person wallet="2.11" appendFromBank="456.80" name="Георг"/>
+        <Person wallet="1.43" appendFromBank="456.12" name="Оля"/>
+        <Person wallet="4.25" appendFromBank="458.94" name="Светлана"/>
+    </result>
+    <minimum>
+        <Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="person" wallet="1.34" appendFromBank="456.03" name="Михаил"/>
+    </minimum>
+</total>
